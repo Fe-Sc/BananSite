@@ -50,7 +50,7 @@
 
 .contents1{
     text-align: center;
-    color: rgb(255, 254, 196);
+    color: rgb(255, 255, 255);
     transform: translateY(-50%);
     position: absolute;
     top: 50%;
@@ -67,5 +67,5 @@
 }
 
 .banner2{
-    background-color: rgba(255, 254, 196, 0.212);
+    background-color: rgba(255, 254, 207, 0.212);
 }
